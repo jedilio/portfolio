@@ -1,4 +1,4 @@
-# Retail Markdowns Project
+# Store Specific Markdowns Project
 
 ## 📌 Overview
 This project automates Store Specific price change list creation for retail stores.  
