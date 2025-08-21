@@ -32,7 +32,7 @@ This presentation was created to pitch the project to the Allocation Department 
 
 ```mermaid
 flowchart LR
-  A[Markdown List.xlsx] & B[Inventory.xlsx] --> C["Clean & Normalize\n(trim to 8-digit GENERIC ID, parse for widths)"]
+  A[Markdown List.xlsx] & B[Inventory.xlsx] --> C["Clean & Normalize (trim to 8-digit GENERIC ID, parse for widths)"]
   C --> D["Key-Based Merge (GENERIC ID)"]
   D --> E["Filter to Site + Relevant Styles"]
   E --> F["Sort and Format (store-friendly sequence for associates)"]
