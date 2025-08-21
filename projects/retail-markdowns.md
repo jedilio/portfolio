@@ -8,7 +8,7 @@ Managers previously had to manually cross-check price changes in MIM (Merchandis
 - Saves hours of manual effort across the fleet
 
 This presentation was created to pitch the project to the Allocation Department and gain approval.
-[📑 View the Presentation to the Allocation Department (PDF)](./assets/Inventory%20Markdown%20Merge%20Project.pdf)
+[📑 View the Presentation to the Allocation Department (PDF)](../assets/Inventory%20Markdown%20Merge%20Project.pdf)
 
 ---
 
