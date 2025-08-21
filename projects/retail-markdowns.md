@@ -1,8 +1,8 @@
 # Retail Markdowns Project
 
 ## 📌 Overview
-This project automates markdown list creation for retail stores.  
-Managers previously had to manually cross-check price changes in MIM; I built a Python solution that:
+This project automates Store Specific price change list creation for retail stores.  
+Managers previously had to manually cross-check price changes in MIM (Merchandise Inventory Management); I built a Python solution that:
 - Matches store inventory with corporate markdown lists
 - Produces store-specific markdown files
 - Saves hours of manual effort across the fleet
@@ -17,10 +17,10 @@ Managers previously had to manually cross-check price changes in MIM; I built a 
 ---
 
 ## 🔑 Key Features
-- Automatically matches markdowns against live store inventory
+- Automatically matches markdowns against current store inventory
 - Generates Excel and PDF reports per store
 - Groups by **site**, **style**, **width**, and **price**
-- Adds **summary sheet** with per-site markdown % and averages
+- Adds **summary sheet** with per-site markdown % and averages to show impact.
 
 ---
 
