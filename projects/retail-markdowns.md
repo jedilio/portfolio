@@ -39,12 +39,14 @@ flowchart LR
   F --> G[["Per-Site Outputs (PDF) and Summary Sheet for Allocation Department"]]
 ```
 
-![Markdown Example](../assets/retail-markdowns-sample.png)
+![Markdown Example](../assets/markdown_output_blurred.jpg)
+
+The example is blurred for confidentiality reasons, but you can easily tell one is easier to read than the other. It also went from 500 lines to an average of 160 lines per store.
 
 ---
 
 ## 📂 Files
-- [`retail_markdowns.py`](../assets/retail_markdowns.py) → Main Python script
+- [`retail_markdowns.ipynb`](../assets/Inventory%20Markdown%20Merge%20Final.ipynb) → Main Jupyter Notebook (end-to-end pipeline with code + outputs)
 - Example markdown reports in `/assets`
 
 ---
