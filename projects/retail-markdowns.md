@@ -28,8 +28,18 @@ This presentation was created to pitch the project to the Allocation Department 
 
 ---
 
-## 📊 Example Output
-*(You can embed images of the Excel/PDF output if you upload them to `assets/`)*
+## 📊 What This Project Does (No Data Shared)
+
+```mermaid
+flowchart LR
+  A[Markdown List.xlsx] & B[Inventory.xlsx] --> C["Clean & Normalize\n(trim to 8-digit GENERIC ID, parse widths)"]
+  C --> D["Key-Based Merge\n(GENERIC ID → fallback STYLE+COL ID)"]
+  D --> E["Filter to Site + Relevant Styles"]
+  E --> F["Sort & Format\n(store-friendly sequence for associates)"]
+  F --> G[["Per-Site Outputs (PDF/CSV)"]]
+  F --> H[["Summary Sheet\nfor Allocation Department"]]
+```
+
 
 ![Markdown Example](../assets/retail-markdowns-sample.png)
 
