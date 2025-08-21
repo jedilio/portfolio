@@ -78,6 +78,6 @@ I’m now seeking an opportunity to continue growing my data skills in a retail 
 ---
 
 ## Resume
-- 📄 [Download Resume](assets/resume.pdf)
+📄 [View My Resume](./resume.pdf)
 
 > Tip: Each project page below shows the business context, approach, results, and artifacts (code, PDFs, screenshots).
