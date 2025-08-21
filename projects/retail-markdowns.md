@@ -7,7 +7,7 @@ Managers previously had to manually cross-check price changes in MIM (Merchandis
 - Produces store-specific markdown files
 - Saves hours of manual effort across the fleet
 
-[View the Presentation to the Allocation Department to seek approval for the project (PDF)](assets/Inventory Markdown Merge Project.pdf)
+[View the Presentation to the Allocation Department to seek approval for the project (PDF)](./assets/Inventory Markdown Merge Project.pdf)
 
 ---
 
