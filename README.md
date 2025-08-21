@@ -10,7 +10,7 @@ I’m now seeking an opportunity to continue growing my data skills in a retail 
 - 📍 Greensboro, NC (open to remote)
 - 💼 Focus: Retail analytics, inventory management, markdown optimization, forecasting, and dashboards — powered by automation and Python.  
 - 🔗 LinkedIn: [Jacquelene Dilio](https://www.linkedin.com/in/jacquelene-dilio-687aa58b)  
-- 📧 Email: [jacquelene.dilio@email.com](mailto:jacquelene.dilio@email.com)  
+- 📧 Email: [jedilio@me.com](mailto:jedilio@me.com)  
 
 ---
 
