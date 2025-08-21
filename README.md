@@ -78,6 +78,6 @@ I’m now seeking an opportunity to continue growing my data skills in a retail 
 ---
 
 ## Resume
-📄 [View My Resume](./resume.pdf)
+📄 [View My Resume](./J%20Dilio%20Resume%202025.pdf)
 
 > Tip: Each project page below shows the business context, approach, results, and artifacts (code, PDFs, screenshots).
