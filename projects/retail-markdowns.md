@@ -32,14 +32,12 @@ This presentation was created to pitch the project to the Allocation Department 
 
 ```mermaid
 flowchart LR
-  A[Markdown List.xlsx] & B[Inventory.xlsx] --> C["Clean & Normalize\n(trim to 8-digit GENERIC ID, parse widths)"]
-  C --> D["Key-Based Merge\n(GENERIC ID → fallback STYLE+COL ID)"]
+  A[Markdown List.xlsx] & B[Inventory.xlsx] --> C["Clean & Normalize\n(trim to 8-digit GENERIC ID, parse for widths)"]
+  C --> D["Key-Based Merge (GENERIC ID)"]
   D --> E["Filter to Site + Relevant Styles"]
-  E --> F["Sort & Format\n(store-friendly sequence for associates)"]
-  F --> G[["Per-Site Outputs (PDF/CSV)"]]
-  F --> H[["Summary Sheet\nfor Allocation Department"]]
+  E --> F["Sort and Format (store-friendly sequence for associates)"]
+  F --> G[["Per-Site Outputs (PDF) and Summary Sheet for Allocation Department"]]
 ```
-
 
 ![Markdown Example](../assets/retail-markdowns-sample.png)
 
