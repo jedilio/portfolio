@@ -7,12 +7,15 @@ Managers previously had to manually cross-check price changes in MIM (Merchandis
 - Produces store-specific markdown files
 - Saves hours of manual effort across the fleet
 
+View the Powerpoint I presented to the Allocation Department to seek approval for the project.
+
 ---
 
 ## ⚙️ Tech Stack
 - **Python (pandas, openpyxl, matplotlib)**
 - **Excel automation**
 - **PDF generation (matplotlib + reportlab)**
+- **Microsoft Powerpoint**
 
 ---
 
